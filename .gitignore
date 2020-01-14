@@ -1,0 +1,16 @@
+build/**
+.dub
+docs.json
+__dummy.html
+docs/
+/lambda-calculus
+lambda-calculus.so
+lambda-calculus.dylib
+lambda-calculus.dll
+lambda-calculus.a
+lambda-calculus.lib
+lambda-calculus-test-*
+*.exe
+*.o
+*.obj
+*.lst

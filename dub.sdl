@@ -1,0 +1,6 @@
+name "lambda-calculus"
+description "A symbolic lambda calculs impl"
+authors "Seiji Emery"
+copyright "Copyright © 2020, Seiji Emery"
+license "MIT"
+dependency "pegged" version="~>0.4.4"
